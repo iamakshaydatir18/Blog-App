@@ -1,0 +1,33 @@
+{% extends 'layout.html.jinja' %}
+{% block head %}
+
+<title>{{ translations.about.title }} {{ appName }}</title>
+{% endblock head %}
+
+{% block body %}
+<div class="w-10/12 md:w-4/6 lg:w-6/12 xl:w-5/12 mx-auto mt-20 md:mt-32 break-words text-center text-lg">
+
+  <!-- Link to the main page of the app -->
+  <p class="text-rose-500 text-4xl font-bold select-none" href="" target="_blank">
+    {{ appName }}
+  </p>
+
+  <!-- Version of the app -->
+  <div class="mt-1 text-xs">
+    {{ translations.about.version }}: {{ appVersion }}
+  </div>
+
+  <!-- Description of the blog app -->
+  <div class="mt-4 mx-auto">
+    {{ translations.about.description }}
+  </div>
+
+  <!-- Link to the GitHub repository of the app -->
+  <div class="mt-4 mx-auto">
+      {{ translations.about.moreInfo }}
+      <p class="text-rose-500 inline-block">{{ appName }}</p>
+      <p class="inline-block"><i class="ti ti-brand-github"></i></p>
+  </div>
+
+</div>
+{% endblock body %}

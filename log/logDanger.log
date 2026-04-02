@@ -1,0 +1,17 @@
+[05.01.25|11:25:21.791662|EST]	400 Bad Request: The CSRF session token is missing.
+[05.01.25|11:26:03.753973|EST]	"iamakshaydatir18" & "akshaydatir06@gmail.com" is unavailable 
+[05.01.25|11:26:30.907690|EST]	This email "akshaydatir123@gmail.com" is unavailable
+[05.01.25|11:35:41.655577|EST]	400 Bad Request: The CSRF session token is missing.
+[05.01.25|11:36:16.593080|EST]	This email "akshaydatir06@gmail.com" is unavailable
+[05.01.25|11:36:34.299224|EST]	This email "akshaydtir123@gmail.com" is unavailable
+[05.01.25|11:44:20.768403|EST]	reCAPTCHA keys is unvalid this may cause the application to crash
+[05.01.25|11:44:20.768599|EST]	Please check your recaptcha keys or set recaptcha to false from true in 'constants.py'
+[05.01.25|11:56:12.775528|EST]	127.0.0.1 tried to logout without being logged in
+[05.01.25|12:06:02.370949|EST]	reCAPTCHA keys is unvalid this may cause the application to crash
+[05.01.25|12:06:02.371093|EST]	Please check your recaptcha keys or set recaptcha to false from true in 'constants.py'
+[05.01.25|12:11:38.335286|EST]	reCAPTCHA keys is unvalid this may cause the application to crash
+[05.01.25|12:11:38.335461|EST]	Please check your recaptcha keys or set recaptcha to false from true in 'constants.py'
+[05.01.25|12:17:05.679678|EST]	"iamakshaydatir18" & "akshaydatir06@gmail.com" is unavailable 
+[05.01.25|12:17:21.163059|EST]	This username "iamakshaydatir18" is unavailable
+[05.01.25|12:17:38.630004|EST]	"iamakshaydatvwdv" & "akshaydatir6456@gmail.com" is unavailable 
+[05.01.25|12:18:01.539274|EST]	User: "kishorkashid99@gmail.com" not found
